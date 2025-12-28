@@ -1,24 +1,17 @@
 {
-  "servers": [
+  "groups": [
     {
-      "name": "Singapore - 1",
-      "uri": "vless://uuid1@sg1.example.com:443?security=tls&type=tcp#SG1"
+      "name": "SG",
+      "servers": [
+        { "name": "SG-1", "uri": "vless://..." },
+        { "name": "SG-2", "uri": "vless://..." }
+      ]
     },
     {
-      "name": "Japan - 1",
-      "uri": "vless://uuid2@jp1.example.com:443?security=tls&type=tcp#JP1"
-    },
-    {
-      "name": "USA - 1",
-      "uri": "vless://uuid3@us1.example.com:443?security=tls&type=tcp#US1"
-    },
-    {
-      "name": "Thailand - 1",
-      "uri": "vless://uuid4@th1.example.com:443?security=tls&type=tcp#TH1"
-    },
-    {
-      "name": "Myanmar - Test",
-      "uri": "vless://uuid5@mm1.example.com:443?security=tls&type=tcp#MM"
+      "name": "JP",
+      "servers": [
+        { "name": "JP-1", "uri": "vless://..." }
+      ]
     }
   ]
 }
