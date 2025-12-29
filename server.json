@@ -4,12 +4,7 @@
       "name": "SG",
       "servers": [
         { "name": "SG-1", "uri": "vless://51a0af77-a60c-4d9b-c1a4-f50e1b38d90b@newmytel.gleeze.com:443?path=%2F&security=tls&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none&host=vip.htet-aung-mc-003.loseyourip.com&type=ws&sni=vip.htet-aung-mc-003.loseyourip.com#CG%20KVV%20%F0%9F%93%A2%F0%9F%93%A2%F0%9F%93%A2%F0%9F%93%A2" },
-        { "name": "SG-2", "uri": "vless://9398f039-4686-4247-aa33-32be58f06d44@newmytel.gleeze.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vip.htet-aung-mc-004.webredirect.org&fp=firefox&type=ws&sni=vip.htet-aung-mc-004.webredirect.org#MYTEL-4G%20N%2029%20%F0%9F%90%A1%F0%9F%90%A1%F0%9F%90%A1GCt" }
-      ]
-    },
-    {
-      "name": "JP",
-      "servers": [
+        { "name": "SG-2", "uri": "vless://9398f039-4686-4247-aa33-32be58f06d44@newmytel.gleeze.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vip.htet-aung-mc-004.webredirect.org&fp=firefox&type=ws&sni=vip.htet-aung-mc-004.webredirect.org#MYTEL-4G%20N%2029%20%F0%9F%90%A1%F0%9F%90%A1%F0%9F%90%A1GCt" },
         { "name": "JP-1", "uri": "vless://31a91843-f516-456c-8760-bed48d8644bb@newmytel.gleeze.com:443?path=%2F%3Fed%3D2560&security=tls&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none&host=vip.htet-aung-mc-003.webredirect.org&fp=randomized&type=ws&sni=vip.htet-aung-mc-003.webredirect.org#21%2021%20%F0%9F%97%AFGC1" }
       ]
     }
