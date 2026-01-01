@@ -1,7 +1,7 @@
 {
   "groups": [
     {
-      "name": "V2Ray Server",
+      "name": "Country List",
       "servers": [
         { "name": "HONGKONG", "uri": "vmess://eyJhZGQiOiJoay12MnJheS5pcHJhY2V2cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjIyMjEwYTIyLTkwNDItNDZhZS1iZDJmLTQ1MGUyZWQ5NjdkMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9jZG4tY2dpL3RyYWNlIiwicG9ydCI6IjgwIiwicHMiOiJoay12MnJheS5pcHJhY2V2cG4uY29tLWU0aW8wd3FoIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ==" },
         { "name": "GERMANY", "uri": "vmess://eyJhZGQiOiJkZS12MnJheS5pcHJhY2V2cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNiNTAwZDVhLWE5ZGUtNDU0ZC04ZTkxLThlN2E3YjlmNWU1YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9jZG4tY2dpL3RyYWNlIiwicG9ydCI6IjgwIiwicHMiOiJkZS12MnJheS5pcHJhY2V2cG4uY29tLXJtYjJhOHNlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=" },
