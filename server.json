@@ -1,8 +1,7 @@
+
 {
   "groups": [
-    {
-      "name": "Country List",
-      "servers": [
+
         { "name": "HONGKONG", "uri": "vmess://eyJhZGQiOiJoay12MnJheS5pcHJhY2V2cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjIyMjEwYTIyLTkwNDItNDZhZS1iZDJmLTQ1MGUyZWQ5NjdkMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9jZG4tY2dpL3RyYWNlIiwicG9ydCI6IjgwIiwicHMiOiJoay12MnJheS5pcHJhY2V2cG4uY29tLWU0aW8wd3FoIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ==" },
         { "name": "GERMANY", "uri": "vmess://eyJhZGQiOiJkZS12MnJheS5pcHJhY2V2cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNiNTAwZDVhLWE5ZGUtNDU0ZC04ZTkxLThlN2E3YjlmNWU1YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9jZG4tY2dpL3RyYWNlIiwicG9ydCI6IjgwIiwicHMiOiJkZS12MnJheS5pcHJhY2V2cG4uY29tLXJtYjJhOHNlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=" },
         { "name": "UNITED KINGDOM", "uri": "vmess://eyJhZGQiOiJ1ay12MnJheS5pcHJhY2V2cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1OS5jb20ubW0iLCJpZCI6ImZjNzIwMWE0LTQ0YzktNDRjMy1iYjIzLWUxODUzOTYzNjViMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9jZG4tY2dpL3RyYWNlIiwicG9ydCI6IjgwIiwicHMiOiJ1ay12MnJheS5pcHJhY2V2cG4uY29tLTM0eTJtOTBvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9" },
@@ -13,6 +12,4 @@
         {"name": "ITALY", "uri": "vmess://eyJhZGQiOiJpdC12MnJheS5pcHJhY2V2cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1OS5jb20ubW0iLCJpZCI6IjYxY2MxYjM4LTE1YTctNDgzMS04ZmViLTAwZDhlYzhjNTAzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9jZG4tY2dpL3RyYWNlIiwicG9ydCI6IjgwIiwicHMiOiJpdC12MnJheS5pcHJhY2V2cG4uY29tLWJweng0ZTZ5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9" },
         {"name": "UK2", "uri": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ1ay12MnJheS5pcHJhY2V2cG4uY29tLWVodm5xY3YyIiwKICAiYWRkIjogInVrLXYycmF5LmlwcmFjZXZwbi5jb20iLAogICJwb3J0IjogMjA4MywKICAiaWQiOiAiNmVlZGNlOTctNjMxZC00ODE3LThhMjYtZjQyOTA2MTg4NDY1IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgImZwIjogImNocm9tZSIsCiAgImFscG4iOiAiaDMsaDIsaHR0cC8xLjEiCn0=" }
       ]
-    }
-  ]
 }
