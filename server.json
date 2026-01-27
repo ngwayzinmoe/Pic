@@ -13,8 +13,9 @@
         { "name": "Lao", "uri": "vless://42581445-f400-4cbc-b75f-6592d6ccf492@103.245.164.254:80?path=%2FReadyNetworkTT&security=&encryption=none&type=ws#V2-1000GB" },
         { "name": "Singapore", "uri": "vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.26.12.27:2053?&security=tls&fp=chrome&sni=snippet.sheilabelinda.ndjp.net&type=ws&headerType=none&host=snippet.sheilabelinda.ndjp.net&path=%2Fdanfeng%3Fed%3D2560#🇸🇬[www.v2nodes.com] V2Ray Vless-SG-3262" },
         { "name": "Finland", "uri": "vless://7b148add-4438-426e-a583-50f11e7bd0e4@65.109.178.83:443?mode=gun&security=none&encryption=none&type=grpc#🇫🇮[www.v2nodes.com] V2Ray Vless-FI-12503151" },
-        { "name": "SG-AIS_TRUE_gamefile",  "uri": "nm-vless://skLrvwC8FHcTKyolqNebq+jvsay0eg13fxnEYd+TNlYkNr4BK5h6O71bByYT3mrWj1kFccLs4+oIaDQsfMNz/PtiRUpcxIxX1XfVebj6org5yXAJ7bciHECEkJ48QEy42C8beWco5tise2cjSYMfkXSx/JDz6N16+xVd0zXEDklQvPJMQrP/injHyZQwPNnIGdQMSxjdosBqizE5L4+f5GDqf5NbKcoEAExP39N0DG589veu/ThB8W3x2tlrDzutkQNHdwN6T4GbmSj9UkuUyAEOxLrR2oq/43H2f9rk1b9oRTZhxa5RojnCVxVV5CaO" },
-        { "name": "Thailand", "uri": "vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJwb3J0IjoiODAiLCJwcyI6ImFsbG93ZWQgc2ltY2FyZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==" }
+        { "name": "🇩🇪 Netify", "uri": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3ANetifyVpn%5D" },
+        { "name": "🇭🇰 香港2", "uri": "vmess://eyJhZGQiOiI4LjIxOC4yMzguMjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkNTY0MDU1LTJiNDItNDA2Yi05MTgzLTI4Y2M2M2Q4OTE0YSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIveCIsInBvcnQiOiI0NjUyNCIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivMnxAcmlwYW9qaWVkaWFuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==" },
+        { "name": "V2 1000GB", "uri": "vless://42581445-f400-4cbc-b75f-6592d6ccf492@103.245.164.254:80?path=%2FReadyNetworkTT&security=&encryption=none&type=ws#V2-1000GB" }
       ]
     }
   ]
