@@ -1,7 +1,7 @@
 {
   "groups": [
     {
-      "List": "V2Ray Server",
+      "List": "VPN Server",
       "servers": [
         { "name": "Random 1", "uri": "vless://9398f039-4686-4247-aa33-32be58f06d44@newmytel.gleeze.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=vip.htet-aung-mc-004.webredirect.org&fp=firefox&type=ws&allowInsecure=0&sni=vip.htet-aung-mc-004.webredirect.org#MYTEL%20ByPass%201!" },
         { "name": "Random 2", "uri": "vless://9398f039-4686-4247-aa33-32be58f06d44@newmytel.gleeze.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=vip.htet-aung-mc-004.webredirect.org&fp=firefox&type=ws&allowInsecure=0&sni=vip.htet-aung-mc-004.webredirect.org#MYTEL%20ByPass%202" },
