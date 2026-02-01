@@ -12,6 +12,7 @@
         { "name": "SG 2 🇸🇬", "uri": "vless://e5185305-1984-4084-81e0-f77271159c62@ngwayzinmoe-gcpbydeno-89.deno.dev:443?encryption=none&security=tls&sni=ngwayzinmoe-gcpbydeno-89.deno.dev&fp=randomized&type=ws&host=ngwayzinmoe-gcpbydeno-89.deno.dev&path=%2F%3Fed%3D2048#DenoBy-ModsBots" },
         { "name": "France", "uri": "trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%F0%9F%94%A5Join%20Telegram%3A%40Farah_VPN%F0%9F%9F%A3" },
         { "name": "Germany", "uri": "vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=&encryption=none&type=ws#%F0%9F%94%A5Join%20Telegram%3A%40Farah_VPN%F0%9F%9F%A3" }
+      ]
     }
   ]
 }
