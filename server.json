@@ -14,10 +14,7 @@
         { "name": "SG 1 🇸🇬", "uri": "vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.26.12.27:2053?&security=tls&fp=chrome&sni=snippet.sheilabelinda.ndjp.net&type=ws&headerType=none&host=snippet.sheilabelinda.ndjp.net&path=%2Fdanfeng%3Fed%3D2560#🇸🇬[www.v2nodes.com] V2Ray Vless-SG-3262" },
         { "name": "SG 2 🇸🇬", "uri": "vless://e5185305-1984-4084-81e0-f77271159c62@ngwayzinmoe-gcpbydeno-89.deno.dev:443?encryption=none&security=tls&sni=ngwayzinmoe-gcpbydeno-89.deno.dev&fp=randomized&type=ws&host=ngwayzinmoe-gcpbydeno-89.deno.dev&path=%2F%3Fed%3D2048#DenoBy-ModsBots" },
         { "name": "France", "uri": "trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%F0%9F%94%A5Join%20Telegram%3A%40Farah_VPN%F0%9F%9F%A3" },
-        { "name": "Germany", "uri": "vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=&encryption=none&type=ws#%F0%9F%94%A5Join%20Telegram%3A%40Farah_VPN%F0%9F%9F%A3" },
-        { "name": "News Version Test 1", "uri": "ss://YWVzLTI1Ni1nY206b3JuM2cyLy94N0hwQmdLbC9EUEVnR0VtczBIUFF6YmYvK094b0U1RWJ1ST0=@sg7.ylt-api.online:20079?type=tcp#YLT%20-%20GIFT%20%C2%B2%20(%201000%20GB%20)%20%E2%9C%8D%EF%B8%8F%7C-1000.00GB%F0%9F%93%8A-11D,23H%E2%8F%B3" },
-        { "name": "News Version Test 2", "uri": "ss://YWVzLTI1Ni1nY206UERSVFc0eGRwUlNFZHdTRThab0M3QVRsdnpQU2VKbkFYZjlMUzhqbnhJZz0=@sg7.ylt-api.online:58673?type=tcp#YLT%20-%20GIFT%20%C2%B3%20(%201000%20GB%20)%20%E2%9C%8D%EF%B8%8F%7C-1000.00GB%F0%9F%93%8A-11D,23H%E2%8F%B3" },
-        { "name": "News Version Test 3", "uri": "ss://YWVzLTI1Ni1nY206WXBDTnVRekhSSVZiQWloTjNldDNiM0M5a2l6bUNtOGdNekhMVXZZVFJaVT0=@sg7.ylt-api.online:33424?type=tcp#YLT%20-%20GIFT%20(%201000%20GB%20)%20.%E2%9C%8D%EF%B8%8F%7C-997.02GB%F0%9F%93%8A-11D,23H%E2%8F%B3" }
+        { "name": "Germany", "uri": "vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=&encryption=none&type=ws#%F0%9F%94%A5Join%20Telegram%3A%40Farah_VPN%F0%9F%9F%A3" }
       ]
     }
   ]
