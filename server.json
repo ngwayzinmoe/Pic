@@ -3,6 +3,11 @@
     {
       "List": "VPN Server",
       "servers": [
+        { "name": "SG 1", "uri": "trojan://yXHnr8cuiZhnr21ovER2ZA@152.42.236.76:1084?security=none&headerType=none&type=tcp#%28KEYFOR-U%29" },
+        { "name": "SG 2", "uri": "vless://4328419c-da9f-490d-8bd1-2fd3e2b8bed8@152.42.236.76:1083?security=&encryption=none&headerType=none&type=tcp#%28KEYFOR-U%29" },
+        { "name": "SG 3", "uri": "vmess://eyJhZGQiOiIxNTIuNDIuMjM2Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ2NDRkYmUwLTNhNzItNDU1ZS04YTkxLWY3ODQ4MTYxYTEyYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTA4MiIsInBzIjoiKEtFWUZPUi1VKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0=" },
+        { "name": "Finland", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@37.143.129.98:990#%F0%9F%87%AB%F0%9F%87%AE" },
+        { "name": "Austria", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@37.235.56.69:990#Outline%20Server-166" },
         { "name": "Random 1", "uri": "vless://9398f039-4686-4247-aa33-32be58f06d44@newmytel.gleeze.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=vip.htet-aung-mc-004.webredirect.org&fp=firefox&type=ws&allowInsecure=0&sni=vip.htet-aung-mc-004.webredirect.org#MYTEL%20ByPass%201!" },
         { "name": "Random 2", "uri": "vless://9398f039-4686-4247-aa33-32be58f06d44@newmytel.gleeze.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=vip.htet-aung-mc-004.webredirect.org&fp=firefox&type=ws&allowInsecure=0&sni=vip.htet-aung-mc-004.webredirect.org#MYTEL%20ByPass%202" },
         { "name": "Random 3", "uri": "vless://31a91843-f516-456c-8760-bed48d8644bb@newmytel.gleeze.com:443?path=%2F%3Fed%3D2560&security=tls&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none&insecure=0&host=vip.htet-aung-mc-003.webredirect.org&fp=randomized&type=ws&allowInsecure=0&sni=vip.htet-aung-mc-003.webredirect.org#21%2021%20%F0%9F%97%AFGC1" },
