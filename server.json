@@ -3,7 +3,7 @@
     {
       "List": "VPN Server",
       "servers": [
-        { "name": "SG 1", "uri": "ss://YWVzLTI1Ni1nY206UTRtWWd4cnBlK3gxclhTSVJwSzhnc0FvOHUxVytNYkJveU90OTNMUDF6ND0@45.76.155.141:54334?type=tcp#1.Public%20Free%20YLT%20%20%E2%9C%8D%EF%B8%8F%7C" },
+        { "name": "SG 1", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzVnlnYmx6NWtBamFONDlkcVNlRzBMMHJldDJYaXpNMEkvdXVpQXVXbUprPQ@af.qito-tech.online:80?type=tcp#Qito%20Tech%20Free36%20(2000GB🇸🇬)" },
         { "name": "SG 2", "uri": "ss://YWVzLTI1Ni1nY206ZEFSZmU5cklEd3FENGhabWxVTGRTYnFzL1NFcWR4WS82bXdFUzRwaFJKQT0@45.76.155.141:54334?type=tcp#2.Public%20Free%20YLT%20%20%E2%9C%8D%EF%B8%8F%7C" },
         { "name": "SG 3", "uri": "ss://YWVzLTI1Ni1nY206cWZjbk5SdVNzVlZHRFBZUGxnQU1GMks5Q0tFTDI3dHZNdGxRekZIeThsOD0@45.76.155.141:54334?type=tcp#3.Public%20Free%20YLT%20%E2%9C%8D%EF%B8%8F%20%7C" },
         { "name": "Finland", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@37.143.129.98:990#%F0%9F%87%AB%F0%9F%87%AE" },
