@@ -3,7 +3,8 @@
     {
       "List": "VPN Server",
       "servers": [
-        { "name": "SG 1", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptK0w5YmRzd3FHOHJXem5Rb0pLSktGeWhHOEdtelBWMGRSZ3YyME1pNWQ0PQ@af.qito-tech.online:80?type=tcp#Qito%20Tech%20Free37%20(2000GB🇸🇬)" },
+        { "name": "Vietnam", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aTlwNkhJTDFhNzNnTTJJeGpkQjRJ@14.225.219.101:443" },
+        { "name": "Indonesia", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySm9uMXd5WnlrbzBxMWNPd2ZHVWpu@103.160.63.164:443" },
         { "name": "Thingyan Festival 01", "uri": "vless://48ddd7e3-5d31-46ab-9153-16c0e4d92adc@139.59.3.70:24725?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=PAAYOscWvc6-DIWjJ8cHWpgX-xkMUVmu8Nz24itmo34&type=tcp&headerType=none#YLT%20-%20Thingyan%20Festival%20%F0%9F%AB%A7%F0%9F%AA%A3-1" },
         { "name": "Thingyan Festival 02", "uri": "vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&security=none&type=ws&host=long-forest-ac72.salari1382m.workers.dev&path=%2F#YLT%20-%20Thingyan%20Festival%20%F0%9F%AB%A7%F0%9F%AA%A3-2" },
         { "name": "Thingyan Festival 03", "uri": "vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&security=none&type=ws&path=%2F#YLT%20-%20Thingyan%20Festival%20%F0%9F%AB%A7%F0%9F%AA%A3-3" },
