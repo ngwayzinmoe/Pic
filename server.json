@@ -11,6 +11,11 @@
         { "name": "MM News Year 4", "uri": "vless://c6fbba60-33b6-4944-ae41-8789b3f2bfb2@45.130.164.164:20192?authority=&encryption=none&fp=chrome&pbk=JgwDVjJnXq2Qv6luisOB0JVoCQraLIrAoTR48OvI1zY&security=reality&serviceName=&sid=9f146afd&sni=www.amd.com&spx=%2Fnkz8HfX62SGPy27&type=grpc#YLT%20%27%20s%20V2Ray%20Users%20-%20O3-400.00GB%F0%9F%93%8A" },
         { "name": "MM News Year 5", "uri": "vless://ee6a94f4-0f1b-4149-9b2e-5aeba4594b52@45.130.164.164:80?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KVN2MFN5JleA6_TtatiOp3EPPrxgVVa5qScZFR23MUg&security=reality&sid=27b86334c5d7e5&sni=www.icloud.com&spx=%2FqSRnnFvhGu7QKhF&type=tcp#YLT%20%27%20s%20%20V2Ray%20Users%20-%20O2-299.99GB%F0%9F%93%8A" },
         { "name": "MM News Year 6", "uri": "vless://47b51fd3-5b4e-4a17-8530-b0e74c7da81d@45.130.164.164:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=h1cXIwiUARN3fdo8UfzoFIClODnWxi2Rbk6vp4auPA4&security=reality&sid=5c&sni=www.amazon.com&spx=%2FjnJwfrH5DNjPMfO&type=tcp#YLT%20%27%20s%20%20V2Ray%20Users%20-%20O1-299.99GB%F0%9F%93%8A" },
+        { "name": "MM News Year 7", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBdDJ0bmZ6djE0N0RJR1F0VVgybUZO@150.95.85.12:22867/?outline=1#t.me/maungkkk" },
+        { "name": "MM News Year 8", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSjJVdkJGSWNMYUpsbTY2am90RTZm@150.95.85.12:22867/?outline=1#t.me/maungkkk" },
+        { "name": "MM News Year 9", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlNEcjVWcmtxcFcyS0pLdTl2QWVx@150.95.85.12:22867/?outline=1#t.me/maungkkk" },
+        { "name": "MM News Year 10", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRm1HT0FYRE9FNTBPSkxRYjJ5UlBB@150.95.85.12:22867/?outline=1#t.me/maungkkk" },
+        { "name": "MM News Year 11", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSXRucmlxR1lQdWM2VWZMYURJNkhL@150.95.85.12:22867/?outline=1#t.me/maungkkk" },
         { "name": "Japan 🇯🇵 1", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZEVINGlSUXE1ZkdXZ3BUdlpMWUl6@13.230.76.4:20914#none" }
      ]
     }
