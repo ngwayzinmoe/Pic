@@ -5,8 +5,6 @@
       "servers": [
         { "name": "Vietnam", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aTlwNkhJTDFhNzNnTTJJeGpkQjRJ@14.225.219.101:443" },
         { "name": "Indonesia", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySm9uMXd5WnlrbzBxMWNPd2ZHVWpu@103.160.63.164:443" },
-        { "name": "Test", "uri": "ss://free.qito-tech.me/PdoOmba7Bey0HC0YLMhq8W4vkQmhJHkz.json#Free_Qito_Free1" },
-        { "name": "Test", "uri": "ssconf://free.qito-tech.me/PdoOmba7Bey0HC0YLMhq8W4vkQmhJHkz.json#Free_Qito_Free1" },
         { "name": "MM News Year 1", "uri": "ss://YWVzLTI1Ni1nY206RDRNT0VhSWJzZ2dpS3gyaTlzNmZ2U0NLb0RZWENSelNRb3g0VElBSXRlTT0@45.130.164.164:59554?type=tcp#YLT%20'%20s%20%20Outline%20Users%20.%20O1%20%E2%9C%8D%EF%B8%8F%7C" },
         { "name": "MM News Year 2", "uri": "ss://YWVzLTI1Ni1nY206S1RaOVd3Um9URFp2d2E5NC9idnFMYmNSRWQ2c3dmbmI3VDVKOWFiaFNaST0@45.130.164.164:48598?type=tcp#YLT%20'%20s%20%20Outline%20Users%20.%20O2%20%E2%9C%8D%EF%B8%8F%7C" },
         { "name": "MM News Year 3", "uri": "ss://YWVzLTI1Ni1nY206Rzk2TW04N2ZOSFM5WkdWYXpQSlM4R2VEZ1hWQm9jc1ZJazZJVGJMajJyaz0@45.130.164.164:15459?type=tcp#YLT%20'%20s%20%20Outline%20Users%20.%20O3%20%E2%9C%8D%EF%B8%8F%7C" },
