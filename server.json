@@ -5,8 +5,7 @@
       "servers": [
         { "name": "Vietnam", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aTlwNkhJTDFhNzNnTTJJeGpkQjRJ@14.225.219.101:443" },
         { "name": "Indonesia", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySm9uMXd5WnlrbzBxMWNPd2ZHVWpu@103.160.63.164:443" },
-        { "name": "100GB", "uri": "vless://b4a07ca2-e67c-4a7c-9f0b-27daabe5f93a@194.233.86.29:443?flow=xtls-rprx-vision&fp=firefox&pbk=Gkbzl9fM-pzxvH_7RDQWFmt9nCAVQMT1sG4qZTkvXCE&security=reality&sid=b5b4ab2c4d6db64e&sni=www.intel.com&spx=%2FpdqexE5dAiofqJu&type=tcp#@hiroshi1070
-          " },
+        { "name": "hiroshi1070", "uri": "vless://b4a07ca2-e67c-4a7c-9f0b-27daabe5f93a@194.233.86.29:443?flow=xtls-rprx-vision&fp=firefox&pbk=Gkbzl9fM-pzxvH_7RDQWFmt9nCAVQMT1sG4qZTkvXCE&security=reality&sid=b5b4ab2c4d6db64e&sni=www.intel.com&spx=%2FpdqexE5dAiofqJu&type=tcp#@hiroshi1070" },
         { "name": "Thingyan Day 1", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRUxISTFYemthdFVPTzVqYXp6dEln@v2.nooend14.qzz.io:1080#Key%20For%20%F0%9F%A7%8F" },
         { "name": "Thingyan Day 2", "uri": "vmess://eyJhZGQiOiIxNzguMTI4Ljg3LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4M2Y5OTE4Ni00OWVlLTQ0MzktYTk1Yy00MzBjNDNjNTdhNGMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwODEiLCJwcyI6IktFWUZPUi1VIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ==" },
         { "name": "Thingyan Day 3", "uri": "vless://c41510ac-5480-4902-99cd-e4cbdd4a05e1@178.128.87.160:1083?security=&encryption=none&headerType=none&type=tcp#KEYFOR-U" },
