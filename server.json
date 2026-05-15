@@ -3,6 +3,11 @@
     {
       "List": "VPN Server",
       "servers": [
+        { "name": "SG 1", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcndZczFwYm5VOV8zRENpODhIdzhn@v2.nooend.me:1080#Key%20For%20%F0%9F%A7%8F" },
+        { "name": "SG 2", "uri": "vmess://eyJhZGQiOiIxNTcuMjMwLjI0Mi4xOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjcxMjQ4MDctMDU0Yy00ZjdjLTg2OWQtMGZkMGIwN2MyZWJhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDgyIiwicHMiOiJLRVlGT1ItVSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0=" },
+        { "name": "SG 3", "uri": "trojan://utbgoGZpBgezvwWS7ipiAA@157.230.242.197:1084?security=none&headerType=none&type=tcp#KEYFOR-U" },
+        { "name": "SG 4", "uri": "vmess://eyJhZGQiOiIxNTcuMjMwLjI0Mi4xOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjcxMjQ4MDctMDU0Yy00ZjdjLTg2OWQtMGZkMGIwN2MyZWJhIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDgxIiwicHMiOiJLRVlGT1ItVSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0=" },
+        { "name": "SG 5", "uri": "vless://214ed2d9-2203-4dfe-b51c-0fec1d23875d@157.230.242.197:1083?security=&encryption=none&headerType=none&type=tcp#KEYFOR-U" },
         { "name": "AF-SouthAfrica-01", "uri": "vless://9da75dba-4d07-42fd-be59-6cada6ebe3a1@34.35.136.36:15388?type=tcp&encryption=none&security=reality&pbk=tuGahxC0i6avtgh7GqfQK7c2ovQFpeZsqjdV3VUFBAo&fp=firefox&sni=www.intel.com&sid=1a0e2fa43ec99771&spx=%2F&flow=xtls-rprx-vision#AF-SouthAfrica-01" },
         { "name": "AF-SouthAfrica-02", "uri": "vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?type=tcp&encryption=none&security=reality&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&fp=firefox&sni=www.icloud.com&sid=32a8bfa2939125&spx=%2F&flow=xtls-rprx-vision#AF-SouthAfrica-02" },
         { "name": "ASIA-HongKong-Optimized-01", "uri": "vless://9e13f74e-3ad7-437d-aba6-5def3c42b046@64.49.44.87:19107?type=tcp&encryption=none&security=reality&pbk=rdfVgNqwK528X1X4ZdKe9abvTm7yMICZ5FRUmdYLF14&fp=firefox&sni=www.intel.com&sid=bedc231e12dd39&spx=%2F&flow=xtls-rprx-vision#ASIA-HongKong-Optimized-01" },
