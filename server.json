@@ -3,7 +3,7 @@
     {
       "List": "VPN Server",
       "servers": [
-        { "name": "SG 1", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaUGxZS05sTUJrTXF6bEpBenBnekl5@sirpusg.nanluhz.world:310/?outline=1" },
+        { "name": "SG 1", "uri": "vless://efc34115-b4be-4959-b7d2-b61852cc8e6f@app.hiroshirental.store:443?path=%2Fstreamray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=app.hiroshirental.store&fp=chrome&type=httpupgrade&sni=app.hiroshirental.store#Thai%20VIP%201" },
         { "name": "SG 2", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4UE5nNzNIV1VaeDVWU0RqYlZUZFNy@sirpusg.nanluhz.world:933/?outline=1" },
         { "name": "ASIA-India-01", "uri": "vless://c2291426-2b98-4438-9642-2c4d33af9ebb@13.235.51.189:44868?type=tcp&encryption=none&security=reality&pbk=jCOrYOR64s1EGrLzv2UB2I4a_kvIZZ608QwEngxQYh4&fp=firefox&sni=www.icloud.com&sid=942ae2e12dad&spx=%2F&flow=xtls-rprx-vision#ASIA-India-01" },
         { "name": "ASIA-India-02", "uri": "vless://6f66ffbf-5bb8-414c-9267-bd5e70da4b0d@3.110.210.183:19795?type=tcp&encryption=none&security=reality&pbk=b4HekP4ziFFqZSDXq_8Tze_yYB9C2Y0ERvsEIGtx800&fp=firefox&sni=www.apple.com&sid=914c8a888971c7&spx=%2F&flow=xtls-rprx-vision#ASIA-India-02" },
