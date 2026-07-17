@@ -3,8 +3,8 @@
     {
       "List": "VPN Server",
       "servers": [
-        { "name": "SG 1", "uri": "vless://efc34115-b4be-4959-b7d2-b61852cc8e6f@app.hiroshirental.store:443?path=%2Fstreamray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=app.hiroshirental.store&fp=chrome&type=httpupgrade&sni=app.hiroshirental.store#Thai%20VIP%201" },
-        { "name": "SG 2", "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4UE5nNzNIV1VaeDVWU0RqYlZUZFNy@sirpusg.nanluhz.world:933/?outline=1" },
+        { "name": "Thailand 1", "uri": "vless://efc34115-b4be-4959-b7d2-b61852cc8e6f@app.hiroshirental.store:443?path=%2Fstreamray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=app.hiroshirental.store&fp=chrome&type=httpupgrade&sni=app.hiroshirental.store#Thai%20VIP%201" },
+        { "name": "Thailand 2", "uri": "vless://efc34115-b4be-4959-b7d2-b61852cc8e6f@api.ponnarprem.com:443?path=%2Fstreamray&security=tls&alpn=http%2F1.1&encryption=none&host=api.ponnarprem.com&fp=chrome&type=httpupgrade&sni=api.ponnarprem.com#Thai%20Free%20Trial" },
         { "name": "ASIA-India-01", "uri": "vless://c2291426-2b98-4438-9642-2c4d33af9ebb@13.235.51.189:44868?type=tcp&encryption=none&security=reality&pbk=jCOrYOR64s1EGrLzv2UB2I4a_kvIZZ608QwEngxQYh4&fp=firefox&sni=www.icloud.com&sid=942ae2e12dad&spx=%2F&flow=xtls-rprx-vision#ASIA-India-01" },
         { "name": "ASIA-India-02", "uri": "vless://6f66ffbf-5bb8-414c-9267-bd5e70da4b0d@3.110.210.183:19795?type=tcp&encryption=none&security=reality&pbk=b4HekP4ziFFqZSDXq_8Tze_yYB9C2Y0ERvsEIGtx800&fp=firefox&sni=www.apple.com&sid=914c8a888971c7&spx=%2F&flow=xtls-rprx-vision#ASIA-India-02" },
         { "name": "AF-SouthAfrica-01", "uri": "vless://9da75dba-4d07-42fd-be59-6cada6ebe3a1@34.35.136.36:15388?type=tcp&encryption=none&security=reality&pbk=tuGahxC0i6avtgh7GqfQK7c2ovQFpeZsqjdV3VUFBAo&fp=firefox&sni=www.intel.com&sid=1a0e2fa43ec99771&spx=%2F&flow=xtls-rprx-vision#AF-SouthAfrica-01" },
